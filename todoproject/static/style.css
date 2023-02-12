@@ -1,0 +1,16 @@
+.banner{
+    background-color: darkslateblue;
+    width: 150%;
+    height:150px;
+    padding-bottom: 50px;
+
+}
+.banner-text{
+    top:50px;
+    left:50%;
+    position:absolute;
+    text-shadow: 2px 5px #ff0000;
+    color: pink;
+    /*transform:transform;*/
+
+}
